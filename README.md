@@ -53,8 +53,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/gsap_cocktails.git
-cd gsap_cocktails
+git clone (https://github.com/alfadisinii/gasp-react-vite-cocktails.git)
+cd gasp_react_vute_cocktails
 ```
 
 **Installation**
